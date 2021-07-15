@@ -1,0 +1,158 @@
+{
+  "numberTest": [
+    {
+      "question": "Զրո",
+      "variant1": "1",
+      "variant2": "5",
+      "variant3": "0",
+      "variant4": "8",
+      "right": "3"
+    },
+    {
+      "question": "Հինգ",
+      "variant1": "6",
+      "variant2": "0",
+      "variant3": "3",
+      "variant4": "5",
+      "right": "4"
+    },
+    {
+      "question": "Երկու",
+      "variant1": "2",
+      "variant2": "7",
+      "variant3": "3",
+      "variant4": "8",
+      "right": "1"
+    }
+  ],
+  "abcTest": [
+    {
+      "question": "Ա",
+      "variant1": "Vo",
+      "variant2": "A",
+      "variant3": "N",
+      "variant4": "P",
+      "right": "2"
+    },
+    {
+      "question": "Կ",
+      "variant1": "T",
+      "variant2": "Ye",
+      "variant3": "U",
+      "variant4": "K",
+      "right": "4"
+    },
+    {
+      "question": "Զ",
+      "variant1": "Z",
+      "variant2": "Yev",
+      "variant3": "Vo",
+      "variant4": "F",
+      "right": "1"
+    }
+  ],
+  "communicationTest": [
+    {
+      "question": "Բարև",
+      "variant1": "hello",
+      "variant2": "how are you?",
+      "variant3": "bye",
+      "variant4": "thank you",
+      "right": "1"
+    },
+    {
+      "question": "ցտեսություն",
+      "variant1": "bye",
+      "variant2": "please",
+      "variant3": "hi",
+      "variant4": "how are you?",
+      "right": "1"
+    },
+    {
+      "question": "Ինչպե՞ս ես",
+      "variant1": "no",
+      "variant2": "how are you?",
+      "variant3": "thank you",
+      "variant4": "bye",
+      "right": "2"
+    }
+  ],
+  "colorTest": [
+    {
+      "question": "Կարմիր",
+      "variant1": "red",
+      "variant2": "green",
+      "variant3": "blue",
+      "variant4": "white",
+      "right": "1"
+    },
+    {
+      "question": "Կապույտ",
+      "variant1": "yellow",
+      "variant2": "blue",
+      "variant3": "white",
+      "variant4": "brown",
+      "right": "2"
+    },
+    {
+      "question": "Նարնջագույն",
+      "variant1": "orange",
+      "variant2": "yellow",
+      "variant3": "white",
+      "variant4": "red",
+      "right": "1"
+    }
+  ],
+  "foodTest": [
+    {
+      "question": "ջուր",
+      "variant1": "egg",
+      "variant2": "bread",
+      "variant3": "water",
+      "variant4": "grass",
+      "right": "3"
+    },
+    {
+      "question": "ձու",
+      "variant1": "egg",
+      "variant2": "grass",
+      "variant3": "water",
+      "variant4": "bread",
+      "right": "1"
+    },
+    {
+      "question": "հաց",
+      "variant1": "bread",
+      "variant2": "water",
+      "variant3": "grass",
+      "variant4": "egg",
+      "right": "1"
+    }
+  ],
+  "natureTest": [
+    {
+      "question": "ամպ",
+      "variant1": "cloud",
+      "variant2": "tree",
+      "variant3": "cat",
+      "variant4": "grass",
+      "right": "1"
+    },
+    {
+      "question": "կատու",
+      "variant1": "cat",
+      "variant2": "grass",
+      "variant3": "cloud",
+      "variant4": "tree",
+      "right": "1"
+    },
+    {
+      "question": "խոտ",
+      "variant1": "tree",
+      "variant2": "cat",
+      "variant3": "grass",
+      "variant4": "cloud",
+      "right": "3"
+    }
+  ]
+}
